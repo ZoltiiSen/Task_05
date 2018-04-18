@@ -1,0 +1,9 @@
+html, body, .fif {
+  height: 100%;
+}
+.fif {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 190px;
+}
